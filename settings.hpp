@@ -5,7 +5,7 @@
 
 namespace Settings {
 
-    const QString version = "2.1.1";
+    const QString version = "2.1.2";
 
 }
 
