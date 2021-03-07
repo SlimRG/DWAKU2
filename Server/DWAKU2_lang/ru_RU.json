@@ -1,0 +1,294 @@
+[
+  {
+    "ParamID": "Save",
+    "Translation": "Сохранить"
+  },
+  {
+    "ParamID": "SaveBtn",
+    "Translation": "Сохранить"
+  },
+  {
+    "ParamID": "Start",
+    "Translation": "Запустить"
+  },
+  {
+    "ParamID": "StartBtn",
+    "Translation": "Запустить"
+  },
+  {
+    "ParamID": "Update",
+    "Translation": "Обновить"
+  },
+  {
+    "ParamID": "UpdateBtn",
+    "Translation": "Обновить"
+  },
+  {
+    "ParamID": "Close",
+    "Translation": "Закрыть"
+  },
+  {
+    "ParamID": "CloseMsgButton",
+    "Translation": "Закрыть"
+  },
+  {
+    "ParamID": "Apps",
+    "Translation": "Приложения"
+  },
+  {
+    "ParamID": "RemoveAppsBtn",
+    "Translation": "Приложения"
+  },
+  {
+    "ParamID": "Settings",
+    "Translation": "Настройки"
+  },
+  {
+    "ParamID": "ProxySettingsBtn",
+    "Translation": "Настройки"
+  },
+  {
+    "ParamID": "RemoveSettingsBtn",
+    "Translation": "Настройки"
+  },
+  {
+    "ParamID": "DownloadBtn",
+    "Translation": "Загрузить"
+  },
+  {
+    "ParamID": "Download",
+    "Translation": "Загрузить"
+  },
+  {
+    "ParamID": "Size",
+    "Translation": "Размер"
+  },
+  {
+    "ParamID": "Status",
+    "Translation": "Статус"
+  },
+  {
+    "ParamID": "Title",
+    "Translation": "Название"
+  },
+  {
+    "ParamID": "Size",
+    "Translation": "Размер"
+  },
+  {
+    "ParamID": "Version",
+    "Translation": "Версия"
+  },
+  {
+    "ParamID": "Clean up:",
+    "Translation": "Очистить:"
+  },
+  {
+    "ParamID": "CleanLabel",
+    "Translation": "Очистить:"
+  },
+  {
+    "ParamID": "Language:",
+    "Translation": "Язык:"
+  },
+  {
+    "ParamID": "SelectLanguageLabel",
+    "Translation": "Язык:"
+  },
+  {
+    "ParamID": "Proxy:",
+    "Translation": "Прокси:"
+  },
+  {
+    "ParamID": "ProxyLabelSettingsLabel",
+    "Translation": "Прокси:"
+  },
+  {
+    "ParamID": "Creating app folder...",
+    "Translation": "Создание папки приложения..."
+  },
+  {
+    "ParamID": "Unable to create app's folder!!!",
+    "Translation": "Не удалось создать папку приложения!!!"
+  },
+  {
+    "ParamID": "Unable to create apps folder!!!",
+    "Translation": "Не удалось создать папку приложений!!!"
+  },
+  {
+    "ParamID": "Unable to create language folder!!!",
+    "Translation": "Не удалось создать языковую папку!!!"
+  },
+  {
+    "ParamID": "Unable to create settings folder!!!",
+    "Translation": "Не удалось создать папку настроек!!!"
+  },
+  {
+    "ParamID": "Reading settings...",
+    "Translation": "Чтение настроек..."
+  },
+  {
+    "ParamID": "Cleaning translations...",
+    "Translation": "Очистка переводов..."
+  },
+  {
+    "ParamID": "Removing updater's folder...",
+    "Translation": "Удаление папки обновлений..."
+  },
+  {
+    "ParamID": "Reading local translations...",
+    "Translation": "Чтение кэша переводов..."
+  },
+  {
+    "ParamID": "Setting language for first time...",
+    "Translation": "Настройка языка в первый раз..."
+  },
+  {
+    "ParamID": "Preparing language list...",
+    "Translation": "Подготовка списка языков..."
+  },
+  {
+    "ParamID": "Setting proxy...",
+    "Translation": "Настройка прокси..."
+  },
+  {
+    "ParamID": "Setting internet libs...",
+    "Translation": "Настройка сетевых библиотек..."
+  },
+  {
+    "ParamID": "Connecting server...",
+    "Translation": "Подключение к серверу..."
+  },
+  {
+    "ParamID": "You are connected to the internet",
+    "Translation": "Вы подключены к Интернету"
+  },
+  {
+    "ParamID": "You have a network error: ",
+    "Translation": "Сетевая ошибка:"
+  },
+  {
+    "ParamID": "Getting translation...",
+    "Translation": "Получение перевода..."
+  },
+  {
+    "ParamID": "Checking new version...",
+    "Translation": "Поиск новой версии..."
+  },
+  {
+    "ParamID": "Downloading updates...",
+    "Translation": "Загрузка обновлений..."
+  },
+  {
+    "ParamID": "Unable to create updater folder!!!",
+    "Translation": "Не удалось создать папку обновлений!!!"
+  },
+  {
+    "ParamID": "Checking update files...",
+    "Translation": "Проверка файлов обновлений..."
+  },
+  {
+    "ParamID": "Downloading updater...",
+    "Translation": "Загрузка установщика обновлений..."
+  },
+  {
+    "ParamID": "Checking updater...",
+    "Translation": "Проверка установщика обновлений..."
+  },
+  {
+    "ParamID": "Installing updates...",
+    "Translation": "Установка обновлений..."
+  },
+  {
+    "ParamID": "Downloading app list...",
+    "Translation": "Загрузка списка приложений..."
+  },
+  {
+    "ParamID": "Reading server's app list...",
+    "Translation": "Чтение списка приложений сервера..."
+  },
+  {
+    "ParamID": "Reading client's app list...",
+    "Translation": "Чтение лолкального списка приложений..."
+  },
+  {
+    "ParamID": "Prepare app list...",
+    "Translation": "Подготовка списка приложений..."
+  },
+  {
+    "ParamID": "Prepare language list...",
+    "Translation": "Подготовка списка языков..."
+  },
+  {
+    "ParamID": "Saving settings...",
+    "Translation": "Сохранение настроек..."
+  },
+  {
+    "ParamID": "Made by",
+    "Translation": "Автор программы:"
+  },
+  {
+    "ParamID": "Not Downloaded",
+    "Translation": "Не загружено"
+  },
+  {
+    "ParamID": "Local app",
+    "Translation": "Локальное приложение"
+  },
+  {
+    "ParamID": "Has Update",
+    "Translation": "Возможно обновление"
+  },
+  {
+    "ParamID": "Already Updated",
+    "Translation": "Последняя версия"
+  },
+  {
+    "ParamID": "No apps",
+    "Translation": "Нет приложений"
+  },
+  {
+    "ParamID": "Proxy type:",
+    "Translation": "Тип прокси:"
+  },
+  {
+    "ParamID": "ProxyTypeLabel",
+    "Translation": "Тип прокси:"
+  },
+  {
+    "ParamID": "Proxy IP:",
+    "Translation": "Прокси IP:"
+  },
+  {
+    "ParamID": "ProxyIPLabel",
+    "Translation": "Прокси IP:"
+  },
+  {
+    "ParamID": "Proxy port:",
+    "Translation": "Порт прокси:"
+  },
+  {
+    "ParamID": "ProxyPortLabel",
+    "Translation": "Порт прокси:"
+  },
+  {
+    "ParamID": "Login:",
+    "Translation": "Логин:"
+  },
+  {
+    "ParamID": "ProxyLoginLabel",
+    "Translation": "Логин:"
+  },
+  {
+    "ParamID": "Password:",
+    "Translation": "Пароль:"
+  },
+  {
+    "ParamID": "ProxyPasswordLabel",
+    "Translation": "Пароль:"
+  },
+  {
+    "ParamID": "Use authentication:",
+    "Translation": "Использовать аутентификацию:"
+  }                    
+]

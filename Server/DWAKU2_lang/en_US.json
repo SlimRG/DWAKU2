@@ -1,0 +1,294 @@
+[
+  {
+    "ParamID": "Save",
+    "Translation": "Save"
+  },
+  {
+    "ParamID": "SaveBtn",
+    "Translation": "Save"
+  },
+  {
+    "ParamID": "Start",
+    "Translation": "Start"
+  },
+  {
+    "ParamID": "StartBtn",
+    "Translation": "Start"
+  },
+  {
+    "ParamID": "Update",
+    "Translation": "Update"
+  },
+  {
+    "ParamID": "UpdateBtn",
+    "Translation": "Update"
+  },
+  {
+    "ParamID": "Close",
+    "Translation": "Close"
+  },
+  {
+    "ParamID": "CloseMsgButton",
+    "Translation": "Close"
+  },
+  {
+    "ParamID": "Apps",
+    "Translation": "Apps"
+  },
+  {
+    "ParamID": "RemoveAppsBtn",
+    "Translation": "Apps"
+  },
+  {
+    "ParamID": "Settings",
+    "Translation": "Settings"
+  },
+  {
+    "ParamID": "ProxySettingsBtn",
+    "Translation": "Settings"
+  },
+  {
+    "ParamID": "RemoveSettingsBtn",
+    "Translation": "Settings"
+  },
+  {
+    "ParamID": "DownloadBtn",
+    "Translation": "Download"
+  },
+  {
+    "ParamID": "Download",
+    "Translation": "Download"
+  },
+  {
+    "ParamID": "Size",
+    "Translation": "Size"
+  },
+  {
+    "ParamID": "Status",
+    "Translation": "Status"
+  },
+  {
+    "ParamID": "Title",
+    "Translation": "Title"
+  },
+  {
+    "ParamID": "Size",
+    "Translation": "Size"
+  },
+  {
+    "ParamID": "Version",
+    "Translation": "Version"
+  },
+  {
+    "ParamID": "Clean up:",
+    "Translation": "Clean up:"
+  },
+  {
+    "ParamID": "CleanLabel",
+    "Translation": "Clean up:"
+  },
+  {
+    "ParamID": "Language:",
+    "Translation": "Language:"
+  },
+  {
+    "ParamID": "SelectLanguageLabel",
+    "Translation": "Language:"
+  },
+  {
+    "ParamID": "Proxy:",
+    "Translation": "Proxy:"
+  },
+  {
+    "ParamID": "ProxyLabelSettingsLabel",
+    "Translation": "Proxy:"
+  },
+  {
+    "ParamID": "Creating app folder...",
+    "Translation": "Creating app folder..."
+  },
+  {
+    "ParamID": "Unable to create app's folder!!!",
+    "Translation": "Unable to create app's folder!!!"
+  },
+  {
+    "ParamID": "Unable to create apps folder!!!",
+    "Translation": "Unable to create apps folder!!!"
+  },
+  {
+    "ParamID": "Unable to create language folder!!!",
+    "Translation": "Unable to create language folder!!!"
+  },
+  {
+    "ParamID": "Unable to create settings folder!!!",
+    "Translation": "Unable to create settings folder!!!"
+  },
+  {
+    "ParamID": "Reading settings...",
+    "Translation": "Reading settings..."
+  },
+  {
+    "ParamID": "Cleaning translations...",
+    "Translation": "Cleaning translations..."
+  },
+  {
+    "ParamID": "Removing updater's folder...",
+    "Translation": "Removing updater's folder..."
+  },
+  {
+    "ParamID": "Reading local translations...",
+    "Translation": "Reading local translations..."
+  },
+  {
+    "ParamID": "Setting language for first time...",
+    "Translation": "Setting language for first time..."
+  },
+  {
+    "ParamID": "Preparing language list...",
+    "Translation": "Preparing language list..."
+  },
+  {
+    "ParamID": "Setting proxy...",
+    "Translation": "Setting proxy..."
+  },
+  {
+    "ParamID": "Setting internet libs...",
+    "Translation": "Setting internet libs..."
+  },
+  {
+    "ParamID": "Connecting server...",
+    "Translation": "Connecting server..."
+  },
+  {
+    "ParamID": "You are connected to the internet",
+    "Translation": "You are connected to the internet"
+  },
+  {
+    "ParamID": "You have a network error: ",
+    "Translation": "You have a network error: "
+  },
+  {
+    "ParamID": "Getting translation...",
+    "Translation": "Getting translation..."
+  },
+  {
+    "ParamID": "Checking new version...",
+    "Translation": "Checking new version..."
+  },
+  {
+    "ParamID": "Downloading updates...",
+    "Translation": "Downloading updates..."
+  },
+  {
+    "ParamID": "Unable to create updater folder!!!",
+    "Translation": "Unable to create updater folder!!!"
+  },
+  {
+    "ParamID": "Checking update files...",
+    "Translation": "Checking update files..."
+  },
+  {
+    "ParamID": "Downloading updater...",
+    "Translation": "Downloading updater..."
+  },
+  {
+    "ParamID": "Checking updater...",
+    "Translation": "Checking updater..."
+  },
+  {
+    "ParamID": "Installing updates...",
+    "Translation": "Installing updates..."
+  },
+  {
+    "ParamID": "Downloading app list...",
+    "Translation": "Downloading app list..."
+  },
+  {
+    "ParamID": "Reading server's app list...",
+    "Translation": "Reading server's app list..."
+  },
+  {
+    "ParamID": "Reading client's app list...",
+    "Translation": "Reading client's app list..."
+  },
+  {
+    "ParamID": "Prepare app list...",
+    "Translation": "Prepare app list..."
+  },
+  {
+    "ParamID": "Prepare language list...",
+    "Translation": "Prepare language list..."
+  },
+  {
+    "ParamID": "Saving settings...",
+    "Translation": "Saving settings..."
+  },
+  {
+    "ParamID": "Made by",
+    "Translation": "Made by"
+  },
+  {
+    "ParamID": "Not Downloaded",
+    "Translation": "Not Downloaded"
+  },
+  {
+    "ParamID": "Local app",
+    "Translation": "Local app"
+  },
+  {
+    "ParamID": "Has Update",
+    "Translation": "Has Update"
+  },
+  {
+    "ParamID": "Already Updated",
+    "Translation": "Already Updated"
+  },
+  {
+    "ParamID": "No apps",
+    "Translation": "No apps"
+  },
+  {
+    "ParamID": "Proxy type:",
+    "Translation": "Proxy type:"
+  },
+  {
+    "ParamID": "ProxyTypeLabel",
+    "Translation": "Proxy type:"
+  },
+  {
+    "ParamID": "Proxy IP:",
+    "Translation": "Proxy IP:"
+  },
+  {
+    "ParamID": "ProxyIPLabel",
+    "Translation": "Proxy IP:"
+  },
+  {
+    "ParamID": "Proxy port:",
+    "Translation": "Proxy port:"
+  },
+  {
+    "ParamID": "ProxyPortLabel",
+    "Translation": "Proxy port:"
+  },
+  {
+    "ParamID": "Login:",
+    "Translation": "Login:"
+  },
+  {
+    "ParamID": "ProxyLoginLabel",
+    "Translation": "Login:"
+  },
+  {
+    "ParamID": "Password:",
+    "Translation": "Password:"
+  },
+  {
+    "ParamID": "ProxyPasswordLabel",
+    "Translation": "Password:"
+  },
+  {
+    "ParamID": "Use authentication:",
+    "Translation": "Use authentication:"
+  }                    
+]
