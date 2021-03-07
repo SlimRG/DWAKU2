@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/main">
+        <file alias="bg.svg">pictures/svg/main/bg.svg</file>
+        <file alias="logo.svg">pictures/svg/main/logo.svg</file>
+    </qresource>
+    <qresource prefix="/dynamic/close">
+        <file alias="main.svg">pictures/svg/dynamic/close/main.svg</file>
+        <file alias="on_click.svg">pictures/svg/dynamic/close/on_click.svg</file>
+        <file alias="on_enter.svg">pictures/svg/dynamic/close/on_enter.svg</file>
+    </qresource>
+    <qresource prefix="/dynamic/loading">
+        <file alias="main.gif">pictures/svg/dynamic/loading/main.gif</file>
+    </qresource>
+    <qresource prefix="/dynamic/settings">
+        <file alias="main.svg">pictures/svg/dynamic/settings/main.svg</file>
+        <file alias="on_click.svg">pictures/svg/dynamic/settings/on_click.svg</file>
+        <file alias="on_enter.svg">pictures/svg/dynamic/settings/on_enter.svg</file>
+    </qresource>
+</RCC>
