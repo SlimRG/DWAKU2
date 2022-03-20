@@ -11,7 +11,7 @@ You can help me and pay as much as you want for this project.<br/>
 All this money will go only for the needs of the project.<br/>
 <br/>
 My credit cards: <br/>
-Visa: 4276 3800 3924 9490<br/>
+Visa: 4276 3802 1051 2716<br/>
 Please, add in comment to payment "DWAKU2" and your name. <br/>
 
 
@@ -53,7 +53,7 @@ To do it - make issue or pull request.<br/>
 Все деньги пойдут исключительно на нужды проекта.<br/>
 <br/>
 Мои реквизиты:<br/>
-Visa (Сбербанк): 4276 3800 3924 9490<br/>
+Visa (Сбербанк): 4276 3802 1051 2716<br/>
 Пожалуйста, добавьте в комментарий к платежу "DWAKU2" и ваше имя. <br/>
 Огромное спасибо!<br/>
 
